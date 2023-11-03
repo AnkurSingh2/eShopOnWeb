@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 3e27d7e9-d1dc-45c4-8f9a-31be3d9dd868
-  WEBAPP-NAME: az400-webapp-ankur
+  WEBAPP-NAME: az400-eshoponweb-ankur
 
 
 jobs:
